@@ -5,7 +5,7 @@ This project focuses on the development of a locally runnable AI Assistant empow
 
 
 
-https://github.com/anusthan12/Local-Runnable-AI-Assistant-/assets/102304867/459a7b96-3891-463c-b95e-08a0755f83af
+https://github.com/anusthan12/Local-Runnable-AI-Assistant-/assets/102304867/1a7e503e-a394-4aa0-a2a5-985ecfeff4e1
 
 
 
