@@ -3,6 +3,12 @@
 ## Introduction
 This project focuses on the development of a locally runnable AI Assistant empowered by open-source Large Language Models (LLMs) and Retrieval Augmented Generation (RAG). Leveraging Python's LangChain framework, our AI Assistant operates directly on the user's system, ensuring data privacy. Equipped with capabilities including question answering, database access, coding assistance, and more, our AI Assistant showcases the potential of open-source models and RAG to offer secure and versatile solutions for various industries.
 
+
+
+https://github.com/anusthan12/Local-Runnable-AI-Assistant-/assets/102304867/459a7b96-3891-463c-b95e-08a0755f83af
+
+
+
 ## Problem Statement
 While numerous AI Assistants exist online, few are capable of running locally on a user's machine. Existing offline options often suffer from limited capabilities or excessive resource consumption. In response, our project employs Retrieval Augmented Generation and optimized small-sized open-source models to address these challenges.
 
